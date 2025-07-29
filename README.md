@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @sadiaraja25
-- 👀 I’m interested in graphic designning, web developing, currently finding potential for me in AI/ML.
+- 👀 I’m interested in web developing, currently working in AI/ML.
 - 🌱 I have worked with java, cpp, python, MERN Stack, data structures.
-- 💞️ learning
+- 💞️ I love helping others and learning along the way.  
+- 🤝 Looking to collaborate on Full Stack and AI/ML-based projects.
 - 📫 Reach me on linkedIn account @sadssad_
 
 <!---
